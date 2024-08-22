@@ -6,13 +6,7 @@
          "age": "17",
          "address": "Tharuvaikulam",
          "course": "Python"
-      },
-      {
-         "sno": 2,
-         "name": "Aswin",
-         "age": "30",
-         "address": "Thoothukudi",
-         "course": "python"
       }
+     
    ]
 }
